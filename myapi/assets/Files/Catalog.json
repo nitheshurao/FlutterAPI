@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "nith",
+            "price": 911,
+            "color": "#353728",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "nith",
+            "price": 922,
+            "color": "#353728",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "nith",
+            "price": 933,
+            "color": "#353728",
+            "image": ""
+        }
+    ]
+}
